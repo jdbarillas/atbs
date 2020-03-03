@@ -1,0 +1,12 @@
+Package: ATBS
+Title: Work Done in Python
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Joshua",
+           family = "Barillas",
+           role = c("aut", "cre"),
+           email = "joshdbarillas@gmail.com")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
